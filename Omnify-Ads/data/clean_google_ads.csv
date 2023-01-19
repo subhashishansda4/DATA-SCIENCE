@@ -1,0 +1,412 @@
+Campaign,Keyword_Type,Search_Keyword,Clicks,Impressions,Cost,Prospects,Month,Year,Week,Payment,Total
+EK_Generic_Swimming,Exact,pool reservation system,2,17,38.33,1,Jan,2021,25-Jan,980,941.67
+EK_Generic_Swimming,Exact,pool booking app,1,13,11.7,0,Jan,2021,25-Jan,0,-11.7
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,4,154,45.13,1,Jan,2021,25-Jan,1188,1142.87
+EK_Generic_Swimming,Phrase,pool scheduling software,2,8,23.91,0,Jan,2021,25-Jan,0,-23.91
+EK_Generic_Swimming_UK,Broad,pool reservation software,2,13,4.89,0,Jan,2021,25-Jan,0,-4.89
+EK_Generic_Swimming_Canada,Broad,pool reservation software,1,2,4.93,0,Jan,2021,25-Jan,0,-4.93
+EK_Generic_Swimming,Exact,pool reservation software,1,3,13.44,0,Jan,2021,25-Jan,0,-13.44
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,1,9,6.08,0,Jan,2021,25-Jan,0,-6.08
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,1,3,6.38,0,Jan,2021,25-Jan,0,-6.38
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,14,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,0,5,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,0,4,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,2,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,10,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,6,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,0,26,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Swimming,Exact,swimming pool booking system,0,2,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Swimming_UK,Exact,swimming pool booking system,0,1,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,0,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Swimming_Canada,Exact,swimming pool booking system,0,1,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,reservation management system,0,1,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,2,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Exact,reservation management system,0,1,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,reservation management system,0,1,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,0,0,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Swimming,Broad,pool reservation software,0,12,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,0,9,0.0,0,Jan,2021,25-Jan,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,reservation management system,2,3,17.43,1,Feb,2021,1-Feb,0,-17.43
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,2,28,32.1,0,Feb,2021,1-Feb,0,-32.1
+EK_Generic_Swimming,Phrase,pool scheduling software,2,5,13.63,0,Feb,2021,1-Feb,0,-13.63
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,2,11,22.14,0,Feb,2021,1-Feb,0,-22.14
+EK_Generic_Swimming,Exact,pool reservation system,2,12,12.27,0,Feb,2021,1-Feb,0,-12.27
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,2,39,28.47,0,Feb,2021,1-Feb,0,-28.47
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,2,25,22.61,0,Feb,2021,1-Feb,0,-22.61
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,1,161,12.49,0,Feb,2021,1-Feb,0,-12.49
+EK_Generic_Swimming,Broad,pool reservation software,1,10,3.73,0,Feb,2021,1-Feb,0,-3.73
+EK_Generic_Swimming_UK,Broad,pool reservation software,1,16,6.37,0,Feb,2021,1-Feb,0,-6.37
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,1,8,15.11,0,Feb,2021,1-Feb,0,-15.11
+EK_Generic_Swimming,Exact,pool booking app,1,12,6.23,0,Feb,2021,1-Feb,0,-6.23
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,1,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,booking management software,0,1,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,0,0,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,0,3,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,19,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Swimming_Canada,Exact,pool reservation system,0,1,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,4,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,3,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Swimming,Exact,swimming pool booking system,0,1,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,0,2,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,5,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,1,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Exact,reservation management system,0,0,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,reservation management system,0,1,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Swimming_UK,Phrase,pool scheduling software,0,0,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,reservation management system,0,1,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,0,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,reservation management system,0,0,0.0,0,Feb,2021,1-Feb,0,0.0
+EK_Generic_Swimming_UK,Broad,pool reservation software,4,27,12.05,1,Feb,2021,8-Feb,980,967.95
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,3,144,29.87,0,Feb,2021,8-Feb,0,-29.87
+EK_Generic_Swimming,Exact,pool reservation system,3,15,42.5,0,Feb,2021,8-Feb,0,-42.5
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,2,26,32.15,0,Feb,2021,8-Feb,0,-32.15
+EK_Generic_Swimming,Phrase,pool scheduling software,2,6,40.21,0,Feb,2021,8-Feb,0,-40.21
+EK_Generic_Swimming_UK,Exact,swimming pool booking system,1,5,1.52,0,Feb,2021,8-Feb,0,-1.52
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,booking management software,1,3,11.33,0,Feb,2021,8-Feb,0,-11.33
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,1,15,11.47,0,Feb,2021,8-Feb,0,-11.47
+EK_Generic_Swimming,Broad,pool reservation software,1,19,4.56,0,Feb,2021,8-Feb,0,-4.56
+EK_Generic_Swimming,Exact,pool booking app,1,15,5.03,0,Feb,2021,8-Feb,0,-5.03
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,1,35,14.46,0,Feb,2021,8-Feb,0,-14.46
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,1,20,10.98,0,Feb,2021,8-Feb,0,-10.98
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,reservation management system,0,1,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,2,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,0,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,reservation management system,0,1,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,0,7,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,0,2,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,1,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,0,2,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,1,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,5,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,11,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,1,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,0,0.0,0,Feb,2021,8-Feb,0,0.0
+EK_Generic_Swimming,Exact,pool reservation system,4,13,44.41,1,Feb,2021,15-Feb,0,-44.41
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,3,31,15.97,1,Feb,2021,15-Feb,1788,1772.03
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,10,357,92.09,0,Feb,2021,15-Feb,0,-92.09
+EK_Generic_Swimming_UK,Broad,pool reservation software,8,45,25.33,0,Feb,2021,15-Feb,0,-25.33
+EK_Generic_Swimming,Broad,pool reservation software,4,30,16.0,0,Feb,2021,15-Feb,0,-16.0
+EK_Generic_Swimming,Exact,pool booking app,3,22,11.59,0,Feb,2021,15-Feb,0,-11.59
+EK_Generic_Swimming,Phrase,pool scheduling software,1,8,17.34,0,Feb,2021,15-Feb,0,-17.34
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,1,40,10.35,0,Feb,2021,15-Feb,0,-10.35
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,reservation management system,1,4,2.22,0,Feb,2021,15-Feb,0,-2.22
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,0,3,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,0,7,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,0,24,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,6,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,reservation management system,0,1,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,reservation management system,0,0,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,1,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,0,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,2,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio scheduling software,0,0,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,0,28,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Swimming,Exact,swimming pool booking system,0,1,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,0,8,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,1,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,2,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,9,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,1,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Swimming_UK,Exact,swimming pool booking system,0,1,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,booking management software,0,2,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Exact,reservation management system,0,10,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Swimming_UK,Phrase,pool scheduling software,0,0,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,0,12,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,reservation management system,0,1,0.0,0,Feb,2021,15-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,8,307,63.94,1,Feb,2021,22-Feb,0,-63.94
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,3,21,39.76,0,Feb,2021,22-Feb,0,-39.76
+EK_Generic_Swimming,Exact,pool reservation system,2,8,17.04,0,Feb,2021,22-Feb,0,-17.04
+EK_Generic_Swimming,Broad,pool reservation software,2,18,8.69,0,Feb,2021,22-Feb,0,-8.69
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,2,10,15.32,0,Feb,2021,22-Feb,0,-15.32
+EK_Generic_Swimming,Exact,pool booking app,1,16,10.85,0,Feb,2021,22-Feb,0,-10.85
+EK_Generic_Swimming,Exact,swimming pool reservation system,1,1,4.64,0,Feb,2021,22-Feb,0,-4.64
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,1,33,13.33,0,Feb,2021,22-Feb,0,-13.33
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,reservation management system,1,3,10.5,0,Feb,2021,22-Feb,0,-10.5
+EK_Generic_Swimming_UK,Broad,pool reservation software,1,11,6.83,0,Feb,2021,22-Feb,0,-6.83
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,reservation management system,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Swimming,Exact,swimming pool booking system,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Exact,reservation management system,0,8,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,booking management software,0,2,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Swimming_UK,Exact,swimming pool reservation system,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,2,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Swimming,Phrase,pool scheduling software,0,4,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio scheduling software,0,0,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,5,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,0,12,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Swimming_UK,Phrase,pool scheduling software,0,0,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Swimming_Canada,Exact,pool reservation system,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,reservation management system,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,reservation management system,0,0,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,0,2,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,0,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,2,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,0,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,4,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,1,0.0,0,Feb,2021,22-Feb,0,0.0
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,5,239,42.26,1,Mar,2021,1-Mar,980,937.74
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,2,14,16.96,0,Mar,2021,1-Mar,0,-16.96
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,2,22,25.75,0,Mar,2021,1-Mar,0,-25.75
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,2,20,30.32,0,Mar,2021,1-Mar,0,-30.32
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,1,2,5.25,0,Mar,2021,1-Mar,0,-5.25
+EK_Generic_Swimming,Exact,pool booking app,1,31,9.46,0,Mar,2021,1-Mar,0,-9.46
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,1,9,11.4,0,Mar,2021,1-Mar,0,-11.4
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,reservation management system,0,1,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,1,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,0,3,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,reservation management system,0,0,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,reservation management system,0,0,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,0,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,booking management software,0,3,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Exact,reservation management system,0,3,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Swimming,Exact,pool reservation system,0,1,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,0,2,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Swimming,Phrase,pool scheduling software,0,4,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,4,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,2,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Swimming_UK,Broad,pool reservation software,0,6,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Swimming,Broad,pool reservation software,0,29,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,1,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,1,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,2,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,0,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,7,0.0,0,Mar,2021,1-Mar,0,0.0
+EK_Generic_Swimming,Broad,pool reservation software,10,34,45.5,1,Mar,2021,8-Mar,0,-45.5
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,7,277,52.09,0,Mar,2021,8-Mar,0,-52.09
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,4,35,52.37,0,Mar,2021,8-Mar,0,-52.37
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,3,20,31.04,0,Mar,2021,8-Mar,0,-31.04
+EK_Generic_Swimming_UK,Broad,pool reservation software,2,15,9.43,0,Mar,2021,8-Mar,0,-9.43
+EK_Generic_Swimming,Exact,swimming pool reservation system,2,2,13.08,0,Mar,2021,8-Mar,0,-13.08
+EK_Generic_Swimming,Exact,pool booking app,1,18,1.74,0,Mar,2021,8-Mar,0,-1.74
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,1,23,5.36,0,Mar,2021,8-Mar,0,-5.36
+EK_Generic_Swimming,Phrase,pool scheduling software,1,3,18.38,0,Mar,2021,8-Mar,0,-18.38
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,1,25,9.44,0,Mar,2021,8-Mar,0,-9.44
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,1,13,8.96,0,Mar,2021,8-Mar,0,-8.96
+EK_Generic_Swimming,Exact,pool reservation system,1,4,10.81,0,Mar,2021,8-Mar,0,-10.81
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,0,3,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,0,0,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,reservation management system,0,0,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,reservation management system,0,0,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,0,6,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,2,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,0,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,2,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,3,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,0,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,14,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,reservation management system,0,0,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,1,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,booking management software,0,1,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Tri-Tok_Yoga_Singapore,Exact,yoga studio software,0,0,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Swimming,Exact,swimming pool booking system,0,1,0.0,0,Mar,2021,8-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,8,278,86.79,0,Mar,2021,15-Mar,0,-86.79
+EK_Generic_Swimming,Broad,pool reservation software,5,20,22.7,0,Mar,2021,15-Mar,0,-22.7
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,2,20,21.27,0,Mar,2021,15-Mar,0,-21.27
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,1,28,11.15,0,Mar,2021,15-Mar,0,-11.15
+EK_Generic_Swimming,Exact,pool reservation software,1,6,6.61,0,Mar,2021,15-Mar,0,-6.61
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,1,27,11.32,0,Mar,2021,15-Mar,0,-11.32
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,1,9,10.62,0,Mar,2021,15-Mar,0,-10.62
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,1,13,3.61,0,Mar,2021,15-Mar,0,-3.61
+EK_Generic_Swimming,Exact,pool booking app,1,16,3.34,0,Mar,2021,15-Mar,0,-3.34
+EK_Generic_Swimming,Exact,pool reservation system,0,7,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Exact,reservation management system,0,2,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,0,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Swimming_UK,Broad,pool reservation software,0,7,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,0,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates booking system,0,0,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,6,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,1,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,6,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,4,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Pilates,Phrase,pilates studio software,0,0,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,1,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates management software,0,0,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,reservation management system,0,0,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,0,1,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,reservation management system,0,1,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates studio software,0,2,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,0,0,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Quad-Tok_Pilates,Broad,pilates studio booking software,0,3,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Swimming,Phrase,pool scheduling software,0,5,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,0,2,0.0,0,Mar,2021,15-Mar,0,0.0
+EK_Generic_Swimming,Broad,pool reservation software,12,35,50.15,3,Mar,2021,22-Mar,2388,2337.85
+EK_Generic_Swimming,Exact,pool booking app,3,23,13.25,1,Mar,2021,22-Mar,0,-13.25
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,11,213,84.27,0,Mar,2021,22-Mar,0,-84.27
+EK_Generic_Quad-Tok_Pilates,Broad,pilates studio booking software,4,199,46.89,0,Mar,2021,22-Mar,0,-46.89
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,3,17,15.41,0,Mar,2021,22-Mar,0,-15.41
+EK_Generic_Swimming_Canada,Broad,pool reservation software,3,3,7.89,0,Mar,2021,22-Mar,0,-7.89
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,2,11,19.15,0,Mar,2021,22-Mar,0,-19.15
+EK_Generic_Swimming_UK,Broad,pool reservation software,2,28,15.43,0,Mar,2021,22-Mar,0,-15.43
+EK_Generic_Swimming,Exact,pool reservation system,2,4,14.9,0,Mar,2021,22-Mar,0,-14.9
+EK_Generic_Tri-Tok_Reservation_UAE,Exact,reservation management system,1,3,5.21,0,Mar,2021,22-Mar,0,-5.21
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,reservation management system,1,5,11.17,0,Mar,2021,22-Mar,0,-11.17
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,1,28,11.1,0,Mar,2021,22-Mar,0,-11.1
+EK_Generic_Swimming_UK,Exact,swimming pool booking system,0,1,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Swimming,Phrase,pool scheduling software,0,13,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Exact,reservation management system,0,4,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,0,26,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,0,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Pilates,Phrase,pilates studio software,0,0,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates booking system,0,0,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Canada,Phrase,booking management software,0,24,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,3,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UAE,Phrase,booking management software,0,1,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Exact,reservation management system,0,3,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,1,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,1,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Phrase,booking management software,0,2,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_Singapore,Exact,reservation management system,0,2,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,0,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Yoga_Singapore,Phrase,yoga studio app,0,1,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,reservation management system,0,2,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga_Singapore,Broad,yoga studio booking software,0,2,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio software,0,0,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates studio software,0,1,0.0,0,Mar,2021,22-Mar,0,0.0
+EK_Generic_Tri-Tok_Yoga,Broad,yoga studio app,10,129,30.2,0,Mar,2021,29-Mar,0,-30.2
+EK_Generic_Swimming_Singapore,Exact,swimming pool booking system,8,26,5.97,0,Mar,2021,29-Mar,0,-5.97
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,6,263,46.52,0,Mar,2021,29-Mar,0,-46.52
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,3,41,32.76,0,Mar,2021,29-Mar,0,-32.76
+EK_Generic_Swimming_UK,Broad,pool reservation software,3,4,11.37,0,Mar,2021,29-Mar,0,-11.37
+EK_Generic_Swimming,Broad,pool reservation software,2,23,7.09,0,Mar,2021,29-Mar,0,-7.09
+EK_Generic_Tri-Tok_Yoga,Broad,yoga studio software,1,11,4.62,0,Mar,2021,29-Mar,0,-4.62
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,1,10,10.66,0,Mar,2021,29-Mar,0,-10.66
+EK_Generic_Swimming,Exact,swimming pool booking system,1,2,4.5,0,Mar,2021,29-Mar,0,-4.5
+EK_Generic_Swimming,Exact,pool reservation system,1,5,3.65,0,Mar,2021,29-Mar,0,-3.65
+EK_Generic_Swimming_Canada,Broad,pool reservation software,1,4,4.97,0,Mar,2021,29-Mar,0,-4.97
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,1,15,5.34,0,Mar,2021,29-Mar,0,-5.34
+EK_Generic_Swimming,Phrase,pool scheduling software,1,3,4.46,0,Mar,2021,29-Mar,0,-4.46
+EK_Generic_Tri-Tok_Pilates,Exact,pilates studio software,0,0,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio software,0,1,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Tri-Tok_Pilates,Phrase,pilates studio software,0,0,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Swimming_UK,Phrase,pool scheduling software,0,0,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,0,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio app,0,2,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,7,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,1,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,5,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Quad-Tok_Pilates,Broad,pilates studio booking software,0,34,0.0,0,Mar,2021,29-Mar,0,0.0
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,11,260,89.95,0,Apr,2021,5-Apr,0,-89.95
+EK_Generic_Swimming_Singapore,Exact,swimming pool booking system,7,34,6.27,0,Apr,2021,5-Apr,0,-6.27
+EK_Generic_Swimming,Broad,pool reservation software,4,20,10.14,0,Apr,2021,5-Apr,0,-10.14
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,3,29,33.33,0,Apr,2021,5-Apr,0,-33.33
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio app,1,11,3.82,0,Apr,2021,5-Apr,0,-3.82
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,1,5,23.96,0,Apr,2021,5-Apr,0,-23.96
+EK_Generic_Tri-Tok_Yoga,Phrase,yoga studio app,1,8,2.67,0,Apr,2021,5-Apr,0,-2.67
+EK_Generic_Swimming_Singapore,Exact,swimming pool reservation system,0,1,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio software,0,4,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates studio software,0,0,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,1,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,2,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,0,12,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Tri-Tok_Yoga,Phrase,yoga studio software,0,0,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Swimming,Phrase,pool scheduling software,0,8,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,12,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Quad-Tok_Pilates,Broad,pilates studio booking software,0,51,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,1,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,0,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,0,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Swimming_UK,Broad,pool reservation software,0,1,0.0,0,Apr,2021,5-Apr,0,0.0
+EK_Generic_Swimming,Broad,pool reservation software,5,18,10.57,3,Apr,2021,12-Apr,0,-10.57
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,2,6,19.64,1,Apr,2021,12-Apr,2388,2368.36
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,9,201,71.38,0,Apr,2021,12-Apr,0,-71.38
+EK_Generic_Quad-Tok_Pilates,Broad,pilates studio booking software,2,31,19.81,0,Apr,2021,12-Apr,0,-19.81
+EK_Generic_Tri-Tok_Yoga,Phrase,yoga studio app,2,10,4.54,0,Apr,2021,12-Apr,0,-4.54
+EK_Generic_Swimming_Singapore,Exact,swimming pool booking system,1,15,0.71,0,Apr,2021,12-Apr,0,-0.71
+EK_Generic_Swimming_UK,Exact,swimming pool booking system,1,1,0.74,0,Apr,2021,12-Apr,0,-0.74
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio app,1,6,3.42,0,Apr,2021,12-Apr,0,-3.42
+EK_Generic_Swimming,Exact,pool reservation software,1,1,6.4,0,Apr,2021,12-Apr,0,-6.4
+EK_Generic_Tri-Tok_Pilates,Phrase,pilates studio software,0,0,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,0,15,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio software,0,3,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates studio software,0,0,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Swimming,Exact,pool reservation system,0,1,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Swimming,Phrase,pool scheduling software,0,1,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,8,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Swimming_UK,Broad,pool reservation software,0,1,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,4,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,1,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,1,0.0,0,Apr,2021,12-Apr,0,0.0
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,4,199,29.65,1,Apr,2021,19-Apr,0,-29.65
+EK_Generic_Swimming_Singapore,Exact,swimming pool booking system,5,12,3.98,0,Apr,2021,19-Apr,0,-3.98
+EK_Generic_Quad-Tok_Pilates,Broad,pilates studio booking software,2,47,15.85,0,Apr,2021,19-Apr,0,-15.85
+EK_Generic_Swimming,Exact,swimming pool reservation system,1,1,1.93,0,Apr,2021,19-Apr,0,-1.93
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,1,8,9.67,0,Apr,2021,19-Apr,0,-9.67
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,1,10,10.08,0,Apr,2021,19-Apr,0,-10.08
+EK_Generic_Swimming,Exact,pool reservation system,1,2,3.12,0,Apr,2021,19-Apr,0,-3.12
+EK_Generic_Swimming,Phrase,pool scheduling software,1,2,4.25,0,Apr,2021,19-Apr,0,-4.25
+EK_Generic_Tri-Tok_Yoga,Phrase,yoga studio app,1,10,3.42,0,Apr,2021,19-Apr,0,-3.42
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio app,1,9,3.32,0,Apr,2021,19-Apr,0,-3.32
+EK_Generic_Swimming,Broad,pool reservation software,1,11,2.11,0,Apr,2021,19-Apr,0,-2.11
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio software,0,1,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates studio software,0,0,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Phrase,pilates studio software,0,0,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,0,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,2,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Swimming_UK,Exact,swimming pool booking system,0,1,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Swimming_UK,Broad,pool reservation software,0,1,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,0,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Swimming_Canada,Phrase,pool scheduling software,0,1,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates booking system,0,0,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Swimming_Singapore,Broad,pool reservation software,0,2,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,5,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,1,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,2,0.0,0,Apr,2021,19-Apr,0,0.0
+EK_Generic_Swimming,Broad,pool reservation software,5,26,10.42,0,Apr,2021,26-Apr,0,-10.42
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,4,264,32.79,0,Apr,2021,26-Apr,0,-32.79
+EK_Generic_Swimming_Singapore,Exact,swimming pool booking system,2,12,1.83,0,Apr,2021,26-Apr,0,-1.83
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,2,40,21.84,0,Apr,2021,26-Apr,0,-21.84
+EK_Generic_Quad-Tok_Pilates,Broad,pilates studio booking software,2,40,18.33,0,Apr,2021,26-Apr,0,-18.33
+EK_Generic_Swimming_UK,Exact,swimming pool booking system,1,1,1.25,0,Apr,2021,26-Apr,0,-1.25
+EK_Generic_Swimming,Phrase,pool scheduling software,1,12,16.8,0,Apr,2021,26-Apr,0,-16.8
+EK_Generic_Swimming_Canada,Exact,swimming pool reservation system,0,1,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,0,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Swimming,Exact,pool reservation system,0,4,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,2,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Phrase,pilates booking system,0,0,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Yoga,Phrase,yoga studio software,0,4,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Phrase,pilates studio software,0,0,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,0,9,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,21,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Swimming,Exact,pool booking app,0,6,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Yoga,Phrase,yoga studio app,0,14,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Swimming_UK,Broad,pool reservation software,0,4,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio app,0,7,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Swimming_Canada,Broad,pool reservation software,0,1,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Swimming_Singapore,Broad,pool reservation software,0,3,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,1,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates booking system,0,5,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,0,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,6,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio software,0,2,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Swimming_Singapore,Exact,swimming pool reservation system,0,1,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates studio software,0,1,0.0,0,Apr,2021,26-Apr,0,0.0
+EK_Generic_Tri-Tok_Yoga,Phrase,yoga studio software,8,255,65.66,2,May,2021,3-May,1188,1122.34
+EK_Generic_Swimming,Exact,pool reservation system,5,54,53.69,1,May,2021,3-May,0,-53.69
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio app,4,22,11.73,0,May,2021,3-May,0,-11.73
+EK_Generic_Tri-Tok_Pilates,Exact,pilates studio software,4,9,39.16,0,May,2021,3-May,0,-39.16
+EK_Generic_Tri-Tok_Yoga,Exact,yoga studio software,2,90,23.06,0,May,2021,3-May,0,-23.06
+EK_Generic_Swimming_Singapore,Exact,swimming pool booking system,1,7,6.74,0,May,2021,3-May,0,-6.74
+EK_Generic_Swimming_Canada,Broad,pool reservation software,1,8,1.92,0,May,2021,3-May,0,-1.92
+EK_Generic_Swimming_Singapore,Broad,pool reservation software,1,3,4.41,0,May,2021,3-May,0,-4.41
+EK_Generic_Swimming,Exact,pool booking app,1,9,0.93,0,May,2021,3-May,0,-0.93
+EK_Generic_Swimming,Phrase,pool scheduling software,1,19,7.58,0,May,2021,3-May,0,-7.58
+EK_Generic_Swimming,Exact,swimming pool booking system,1,2,6.15,0,May,2021,3-May,0,-6.15
+EK_Generic_Quad-Tok_Yoga,Broad,yoga studio booking software,1,20,4.57,0,May,2021,3-May,0,-4.57
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio software manager,0,0,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Tri-Tok_Pilates,Phrase,pilates studio software,0,1,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Swimming,Exact,swimming pool reservation system,0,2,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,booking management software,0,2,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Tri-Tok_Reservation,Phrase,reservation management system,0,2,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Tri-Tok_Pilates,Exact,pilates booking system,0,0,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Swimming,Exact,pool reservation software,0,0,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Quad-Tok_Yoga,Phrase,yoga studio management software,0,2,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Tri-Tok_Yoga,Phrase,yoga studio app,0,1,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Swimming_UK,Broad,pool reservation software,0,4,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Tri-Tok_Reservation_UK,Phrase,booking management software,0,1,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Swimming,Broad,pool reservation software,0,1,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Quad-Tok_Yoga,Exact,yoga studio booking software,0,6,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Tri-Tok_Reservation,Exact,reservation management system,0,0,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Quad-Tok_Pilates,Broad,pilates studio booking software,0,1,0.0,0,May,2021,3-May,0,0.0
+EK_Generic_Quad-Tok_Pilates,Exact,pilates studio management software,0,3,0.0,0,May,2021,3-May,0,0.0

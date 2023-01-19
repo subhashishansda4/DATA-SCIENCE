@@ -1,0 +1,1 @@
+SELECT * FROM sales.products where product_type="";

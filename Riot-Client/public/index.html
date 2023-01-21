@@ -1,0 +1,28 @@
+<!-- similarity_form.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LoL of Legends</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>LoL of Legends</h1>
+        <form action="/" method="post">
+            <div class="form-group">
+                <label for="game name">Game Name</label>
+                <input type="text" class="form-control" name="gn" placeholder="Enter Game Name">
+            </div>
+            <div class="form-group">
+                <label for="tag line">Tag Line</label>
+                <input type="text" class="form-control" name="tl" placeholder="Enter Tag Line">
+            </div>
+            <button type="submit" class="btn btn-primary" id="predict-btn">Predict</button>
+        </form>
+        <br>
+        <div id="result"></div>
+    </div>
+</body>
+</html>

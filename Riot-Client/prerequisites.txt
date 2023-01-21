@@ -1,0 +1,9 @@
+riot api documentation
+functions needed
+model for recommendation - champions, items, runes
+api - model, functions
+website layout
+server - api, website
+deploy - aws, gcp, container
+
+RGAPI-bb169043-d31c-42b6-a720-fb1c7c3332f7

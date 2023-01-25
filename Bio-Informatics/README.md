@@ -126,8 +126,7 @@ Support Vector Regression \
 XGBoost Regression \
 ![XGB](https://github.com/subhashishansda4/Bio-Informatics/blob/main/assets/plots/XGBoost%20Regression.jpg) \
 
-## Conclusion
-Acheived an **81%** accuracy with the **Random Forest** model for a dataset comprising of 643 rows \
+## Conclusion \
 \
 ![error](https://github.com/subhashishansda4/Bio-Informatics/blob/main/assets/plots/error_values.jpg)
 
